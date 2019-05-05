@@ -1,0 +1,10 @@
+.blabla-test {
+  height: 500px;
+}
+
+@media (max-width: 1024px) {
+  .blabla-test {
+    height: 300px;
+  }
+}
+/*# sourceMappingURL=mediaquery.css.map */
